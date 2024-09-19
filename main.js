@@ -1,7 +1,7 @@
 let cantidad = document.getElementById("cantidad");
-let boton = document.getElementById("generar");
+let boton = document.getElementById("generate");
 let contrasena = document.getElementById("contrasena");
-let limpiar = document.getElementById("limpiar");
+let limpiar = document.getElementById("cleaner");
 
 const cadenaCaracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()";
 
